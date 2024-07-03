@@ -1,4 +1,3 @@
-
 # EV Conversion Research
 
 ## Overview
@@ -8,6 +7,7 @@ This repository contains research on electric vehicle (EV) conversions, focusing
 - Bolan
 - Town Ace
 - Baleno
+- Land Rover Defender 110 (1990)
 
 ## Contents
 
@@ -19,6 +19,7 @@ This repository contains research on electric vehicle (EV) conversions, focusing
   - [Bolan](#bolan)
   - [Town Ace](#town-ace)
   - [Baleno](#baleno)
+  - [Land Rover Defender 110 (1990)](#land-rover-defender-110-1990)
 - [Findings](#findings)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
@@ -34,7 +35,7 @@ This research aims to explore the feasibility, challenges, and benefits of conve
 1. Analyze the technical requirements for converting ICE vehicles to EVs.
 2. Evaluate the cost-effectiveness of EV conversions.
 3. Assess the environmental impact of converting ICE vehicles to EVs.
-4. Provide detailed case studies for the Mehran, Bolan, Town Ace, and Baleno.
+4. Provide detailed case studies for the Mehran, Bolan, Town Ace, Baleno, and Land Rover Defender 110 (1990).
 
 ## Methodology
 
@@ -86,6 +87,19 @@ Our research methodology includes:
   - Potential issues and how to address them
 
 ### Baleno
+
+- **Technical Requirements:**
+  - Motor specifications
+  - Battery options
+  - Required modifications to the chassis and drivetrain
+
+- **Cost Analysis:**
+  - Estimated costs for components and labor
+
+- **Challenges and Solutions:**
+  - Potential issues and how to address them
+
+### Land Rover Defender 110 (1990)
 
 - **Technical Requirements:**
   - Motor specifications
