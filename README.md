@@ -132,6 +132,4 @@ Suggest areas for future research or potential improvements to the conversion pr
 
 Contributions are welcome! Please open an issue or submit a pull request with your suggestions or improvements.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
