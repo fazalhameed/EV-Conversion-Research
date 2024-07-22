@@ -3,10 +3,10 @@
 ## Overview
 
 This repository contains research on electric vehicle (EV) conversions, focusing on the following vehicles:
-- Mehran
-- Bolan
+- Suzuki Mehran
+- Suzuki Bolan
 - Town Ace
-- Baleno
+- Suzuki Baleno
 - Land Rover Defender 110 (1990)
 
 ## Contents
@@ -47,7 +47,7 @@ Our research methodology includes:
 
 ## Vehicle-Specific Research
 
-### Mehran
+### Suzuki Mehran
 
 - **Technical Requirements:**
   - Motor specifications
@@ -60,7 +60,7 @@ Our research methodology includes:
 - **Challenges and Solutions:**
   - Potential issues and how to address them
 
-### Bolan
+### Suzuki Bolan
 
 - **Technical Requirements:**
   - Motor specifications
@@ -86,7 +86,7 @@ Our research methodology includes:
 - **Challenges and Solutions:**
   - Potential issues and how to address them
 
-### Baleno
+### Suzuki Baleno
 
 - **Technical Requirements:**
   - Motor specifications
